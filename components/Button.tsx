@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { MouseEventHandler } from "react";
 import Image from "next/image";
